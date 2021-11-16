@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Converter Value</string>
+    <string name="value_in_meter">Введіть значення в метрах</string>
+    <string name="mile">Милі</string>
+    <string name="inch">Дюйми</string>
+    <string name="sea_mile">Морська миля</string>
+    <string name="fut">Фути</string>
+    <string name="kilometer">Кілометри</string>
+    <string name="centimeter">Сантиметри</string>
+    <string name="millimeter">Міліметри</string>
+    <string name="calculate">Розрахувати</string>
+    <string name="text_result">Результат: %1$sм = %2$s %3$s</string>
+    <string name="yard">Ярди</string>
+    <string name="question_text">В які одтиниці ви хочете конвертувати?</string>
+    <string name="alert_answer"> Ви не ввели вихідне значення!</string>
+    <string name="mil">милі</string>
+    <string name="inc">дюйми</string>
+    <string name="sea_mil">м.милі</string>
+    <string name="ft">милі</string>
+    <string name="cen">см</string>
+    <string name="mm">мм</string>
+    <string name="km">км</string>
+    <string name="yd">ярди</string>
+</resources>
