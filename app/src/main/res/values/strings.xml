@@ -11,7 +11,7 @@
     <string name="calculate">Розрахувати</string>
     <string name="text_result">Результат: %1$sм = %2$s %3$s</string>
     <string name="yard">Ярди</string>
-    <string name="question_text">В які одтиниці ви хочете конвертувати?</string>
+    <string name="question_text">В які одиниці ви хочете конвертувати?</string>
     <string name="alert_answer"> Ви не ввели вихідне значення!</string>
     <string name="mil">милі</string>
     <string name="inc">дюйми</string>
